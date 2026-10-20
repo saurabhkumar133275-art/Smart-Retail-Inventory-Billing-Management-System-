@@ -13,7 +13,7 @@ import webbrowser
 conn = mysql.connector.connect(
     host="localhost",
     user="Saurabh",
-    password="Saurabh@7352",
+    password="xxxxxxxxxxxxxx",
     database="retail_ai"
 )
 
